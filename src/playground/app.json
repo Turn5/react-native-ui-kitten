@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "react-native-ui-kitten-playground",
+    "description": "react-native-ui-kitten-playground",
+    "slug": "playground",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "packagerOpts": {
+      "config": "./metro.config.js"
+    },
+    "androidStatusBarColor": "#3366FF",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#3366FF"
+    },
+    "assetBundlePatterns": [
+      "./assets"
+    ]
+  }
+}

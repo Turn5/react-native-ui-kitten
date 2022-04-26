@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@layout: matches snapshot default 1`] = `
+<Wrapper
+  forwardedRef={null}
+/>
+`;
+
+exports[`@layout: matches snapshot with styles 1`] = `
+<Wrapper
+  forwardedRef={null}
+  style={
+    Object {
+      "height": 300,
+    }
+  }
+/>
+`;
