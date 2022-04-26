@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "outDir": "./dist/tsc-out",
+    "jsx": "react-native",
+    "target": "es2015",
+    "lib": [
+      "dom",
+      "es2018"
+    ]
+  },
+  "include": [
+    "./src"
+  ]
+}
